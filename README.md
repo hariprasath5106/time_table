@@ -23,6 +23,7 @@ Add your timetable using `<td>` tag.
 Execute the program using runserver command.
 
 # PROGRAM
+```
 <!DOCTYPE html>
 <html>
 <head>
@@ -62,7 +63,7 @@ Execute the program using runserver command.
 <body>
     <img src="logo.png">
     <div class="center-text">
-        <p><strong>SLOT TIME TABLE - K Saranya (24900719) </strong></p>
+        <p><strong>SLOT TIME TABLE - hariprasath S 212222240034 </strong></p>
     </div>
     <table>
         <tr>
@@ -147,6 +148,8 @@ Execute the program using runserver command.
     </table>
 </body>
 </html>
+```
+
 # OUTPUT
 ![WEB EX 3](https://github.com/user-attachments/assets/00d4390a-12b4-401e-9c41-44ca29b655c1)
 
