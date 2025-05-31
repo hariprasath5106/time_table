@@ -148,7 +148,7 @@ Execute the program using runserver command.
 </body>
 </html>
 # OUTPUT
-![WhatsApp Image 2025-05-29 at 19 07 39_34767082](https://github.com/user-attachments/assets/c57b86a6-c868-4336-8274-d33249697811)
+![WEB EX 3](https://github.com/user-attachments/assets/00d4390a-12b4-401e-9c41-44ca29b655c1)
 
 
 
